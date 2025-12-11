@@ -1,0 +1,151 @@
+DOCUMENTO: POLÍTICA Y REGLAS DE COMUNICACIÓN
+ORGANIZACIÓN: Cambia el Clima (ONG internacional de acción climática)
+FECHA: Diciembre 2025
+VERSIÓN: 1.0
+NIVEL: Documento marco – Uso interno
+
+==========================================================
+0. OBJETO Y ALCANCE
+==========================================================
+Este documento define los principios, reglas y criterios que deben guiar toda la comunicación interna y externa de Cambia el Clima. 
+Es de aplicación a: portavocías, equipo técnico, voluntariado, proveedores de comunicación y cualquier persona que hable en nombre de la organización.
+
+==========================================================
+1. PRINCIPIOS RECTORES
+==========================================================
+1.1. Rigor científico
+- Toda comunicación sobre cambio climático debe basarse en la mejor evidencia científica disponible.
+- Se citarán siempre fuentes reconocidas (informes internacionales, centros de investigación, instituciones públicas de prestigio).
+- No se otorgará el mismo peso a opiniones negacionistas o desinformadas que al consenso científico.
+
+1.2. Honestidad y transparencia
+- No se exagerarán impactos ni se minimizarán riesgos para favorecer la captación de apoyos.
+- Se informará de forma clara sobre los límites de la evidencia, las incertidumbres y las limitaciones de la propia organización.
+- Se comunicará cómo se utilizan los recursos (especialmente donaciones) y qué resultados se han alcanzado.
+
+1.3. Coherencia con la misión
+- Ningún mensaje, campaña o colaboración podrá contradecir la misión climática de la organización.
+- Las alianzas con empresas e instituciones estarán sujetas a criterios de coherencia ambiental y ética.
+- Se evitará el greenwashing: no se prestará la marca a operaciones de lavado de imagen climático.
+
+==========================================================
+2. ENFOQUE DEL MENSAJE
+==========================================================
+2.1. Problema + soluciones
+- Todo mensaje que presente riesgos o impactos del cambio climático deberá ir acompañado de soluciones o vías de acción.
+- Se priorizarán narrativas que muestren ejemplos reales de cambio y casos de éxito, además de los problemas.
+
+2.2. Cercanía y relevancia
+- Se conectará el cambio climático con la vida cotidiana: salud, empleo, economía, territorio, desigualdad, futuro de las generaciones jóvenes.
+- Se evitará un lenguaje excesivamente técnico; cuando sea necesario, se explicarán los términos de forma sencilla.
+
+2.3. Equilibrio emocional
+- Se evitará el catastrofismo paralizante y el optimismo ingenuo.
+- Se reconocerán los riesgos reales, pero mostrando que aún hay margen de acción y vías concretas de implicación.
+- Se tendrá especial cuidado con públicos vulnerables a la ecoansiedad (jóvenes, personas muy expuestas a información climática).
+
+==========================================================
+3. TONO Y ESTILO
+==========================================================
+3.1. Tono general
+- Claro, directo y respetuoso.
+- Empático con las preocupaciones, miedos y limitaciones de las personas a las que se dirige el mensaje.
+- Valiente para denunciar injusticias climáticas, pero sin insultos ni descalificaciones personales.
+
+3.2. Lenguaje
+- Inclusivo (no sexista, sensible a diversidad cultural, generacional y funcional).
+- Evitar tecnicismos innecesarios; cuando se usen, incluir explicaciones breves.
+- No usar humor que trivialice los impactos del cambio climático o vulnere la dignidad de colectivos afectados.
+
+3.3. Imágenes y recursos visuales
+- Mostrar diversidad (edad, género, origen, contextos urbanos y rurales).
+- Evitar imágenes estereotipadas de catástrofes constantes como único recurso visual.
+- Siempre que sea posible, mostrar también soluciones, proyectos en marcha y personas actuando.
+
+==========================================================
+4. ÉTICA Y RESPONSABILIDAD
+==========================================================
+4.1. No culpabilización
+- Evitar mensajes que responsabilicen exclusivamente a la ciudadanía individual de la crisis climática.
+- Visibilizar la responsabilidad diferenciada de grandes emisores, gobiernos y estructuras económicas, sin negar el valor de la acción ciudadana.
+- Sustituir la culpa por el énfasis en la capacidad de cambio y la autoeficacia.
+
+4.2. Justicia climática
+- Reconocer que los impactos y responsabilidades no se distribuyen por igual entre países, territorios y grupos sociales.
+- Dar espacio a voces de comunidades especialmente afectadas, respetando sus tiempos, lenguajes y prioridades.
+- No instrumentalizar testimonios de sufrimiento sin consentimiento informado y sin cuidar su contexto.
+
+4.3. Desinformación
+- Contrastar antes de difundir cualquier dato, imagen o noticia.
+- No amplificar bulos replicándolos sin una refutación clara y contextualizada.
+- Cuando se rectifique una información errónea, hacerlo de forma pública y transparente.
+
+==========================================================
+5. SEGMENTACIÓN Y ADAPTACIÓN DE MENSAJES
+==========================================================
+5.1. Por edad
+- Juventud: mensajes con alto componente de participación, creatividad y redes sociales; énfasis en futuro y justicia intergeneracional.
+- Adultez media: foco en familia, salud, economía doméstica y soluciones prácticas para el día a día.
+- Personas mayores: énfasis en legado, comunidad y experiencias acumuladas; preferencia por canales presenciales y medios tradicionales.
+
+5.2. Por rol
+- Activistas y voluntariado: información detallada, herramientas de incidencia y espacios de participación.
+- Ciudadanía general: mensajes claros, breves, con acciones concretas y realistas.
+- Empresas e instituciones: enfoque en riesgos, cumplimiento normativo, reputación e impacto medible.
+
+==========================================================
+6. CANALES Y FORMATOS
+==========================================================
+6.1. Canales digitales
+- Redes sociales: lenguaje más directo y visual, pero sin sacrificar el rigor.
+- Web y blog: contenidos de referencia, con mayor profundidad y recursos descargables.
+- Newsletters: foco en novedades, campañas activas, resultados y llamadas a la acción concretas.
+
+6.2. Canales presenciales y tradicionales
+- Eventos, charlas y talleres: espacio para el diálogo, preguntas y co-creación de soluciones.
+- Colaboración con medios: portavoces formados en comunicación climática, mensajes clave consensuados y actualizados.
+- Material educativo: fichas, guías y recursos didácticos estructurados por público objetivo.
+
+==========================================================
+7. ROLES, RESPONSABILIDADES Y PROCEDIMIENTOS
+==========================================================
+7.1. Portavocías
+- Solo podrán actuar como portavoces oficiales las personas designadas por la dirección.
+- Cada portavoz recibirá formación actualizada en ciencia del clima, narrativa de la organización y gestión de crisis comunicativas.
+- Cualquier intervención en medios deberá prepararse con mensajes clave, datos verificados y ejemplos concretos.
+
+7.2. Aprobación de contenidos
+- Campañas, comunicados y materiales sensibles (temas políticos, alianzas corporativas, emergencias) deberán pasar por un circuito de revisión definido.
+- Se documentarán las versiones y aprobaciones clave de cada pieza de comunicación relevante.
+- Se revisarán periódicamente los contenidos fijos (web, dosieres, presentaciones institucionales).
+
+7.3. Gestión de crisis
+- Ante crisis climáticas, desastres o controversias, se activará un protocolo de comunicación específico:
+  - Nombrar un equipo reducido de coordinación comunicativa.
+  - Unificar mensajes y portavocías.
+  - Actualizar información de forma frecuente y verificable.
+
+==========================================================
+8. EVALUACIÓN Y MEJORA CONTINUA
+==========================================================
+8.1. Indicadores
+- Alcance, participación y conversión (acciones realizadas, personas movilizadas, donaciones, etc.).
+- Calidad percibida por los públicos clave (evaluaciones, encuestas, feedback cualitativo).
+- Coherencia percibida entre lo que se comunica y lo que se hace.
+
+8.2. Revisión periódica
+- Este documento se revisará como mínimo cada 2 años o cuando se produzcan cambios estratégicos relevantes.
+- Las lecciones aprendidas de campañas, crisis y colaboraciones se integrarán en futuras versiones.
+- Cualquier miembro de la organización podrá proponer mejoras a esta política.
+
+==========================================================
+9. ANEXOS ORIENTATIVOS (OPCIONALES)
+==========================================================
+- Ejemplos de mensajes recomendados y mensajes a evitar.
+- Guía rápida de vocabulario y conceptos básicos.
+- Plantillas de comunicados, notas de prensa y posts tipo.
+- Código visual (logos, colores, estilos de imagen) si aplica.
+
+==========================================================
+FIN DEL DOCUMENTO
+==========================================================

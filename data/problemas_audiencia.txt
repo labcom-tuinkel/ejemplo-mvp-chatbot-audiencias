@@ -1,0 +1,137 @@
+DOCUMENTO: PROBLEMAS COMUNES DE LA AUDIENCIA
+ORGANIZACIÓN: Cambia el Clima (ONG internacional de acción climática)
+FECHA: Diciembre 2025
+VERSIÓN: 1.0
+USO: Diagnóstico interno para diseño de mensajes y programas
+
+==========================================================
+0. OBJETIVO DEL DOCUMENTO
+==========================================================
+Identificar los problemas, bloqueos y fricciones más frecuentes que experimentan los diferentes públicos en relación con:
+- La comprensión del cambio climático.
+- Su disposición a actuar.
+- Su relación con la organización y con otras entidades.
+Este mapa de problemas sirve como base para diseñar propuestas, mensajes y experiencias que reduzcan barreras y aumenten la autoeficacia. [web:55]
+
+==========================================================
+1. PROBLEMAS COGNITIVOS (ENTENDIMIENTO E INFORMACIÓN)
+==========================================================
+1.1. Percepción de lejanía y abstracción
+- El cambio climático se percibe como un fenómeno global, técnico y distante en el tiempo y el espacio.
+- Dificultad para conectar la crisis climática con la experiencia cotidiana propia (barrio, salud, empleo, economía doméstica). [web:55]
+
+1.2. Sobrecarga y confusión informativa
+- Exceso de datos, cifras y términos técnicos sin contexto ni traducción a la vida diaria.
+- Dificultad para distinguir fuentes fiables de bulos, discursos negacionistas o mensajes interesados. [web:54]
+- Sensación de “no entiendo lo suficiente como para opinar o actuar con seguridad”.
+
+1.3. Desconocimiento sobre qué acciones importan más
+- Incertidumbre sobre el impacto relativo de cada conducta (alimentación, transporte, energía, consumo).
+- Percepción de que algunas recomendaciones son contradictorias o cambian con el tiempo.
+- Falta de jerarquía clara: qué es “imprescindible”, qué es “recomendable” y qué es “deseable” pero secundario. [web:55]
+
+==========================================================
+2. PROBLEMAS EMOCIONALES Y MOTIVACIONALES
+==========================================================
+2.1. Ecoansiedad y sensación de colapso
+- Emociones de miedo, tristeza, rabia y desesperanza ante noticias de desastres climáticos repetidas. 
+- Bloqueo: “es tan grande y tan grave que no sé por dónde empezar, así que no hago nada”. [web:55]
+
+2.2. Desconfianza y cinismo
+- Percepción de que gobiernos, empresas y élites hablan de clima pero no actúan en coherencia.
+- Creencia de que muchas campañas son solo marketing verde y no transforman la realidad (“greenwashing”).
+- Conclusión cínica: “da igual lo que haga la ciudadanía, los que mandan no cambian”. [web:54]
+
+2.3. Baja autoeficacia
+- Sensación de que la contribución individual es irrelevante frente a las emisiones estructurales.
+- Dificultad para ver resultados tangibles de las propias acciones o de las campañas colectivas.
+- Pensamiento frecuente: “no va a servir de nada, así que no merece la pena el esfuerzo”. [web:55]
+
+==========================================================
+3. PROBLEMAS PRÁCTICOS Y DE CONTEXTO
+==========================================================
+3.1. Limitaciones económicas y de tiempo
+- Falta de recursos para elegir siempre las opciones más sostenibles (alimentación, vivienda, movilidad).
+- Jornadas laborales largas y responsabilidades de cuidados que dejan poco margen para implicarse en actividades, reuniones o voluntariado. [web:55]
+
+3.2. Infraestructuras y opciones limitadas
+- Ausencia o insuficiencia de transporte público o infraestructuras para movilidad activa.
+- Falta de alternativas sostenibles reales en el entorno (comercio, energía, servicios).
+- Entornos sociales donde los hábitos de alto impacto (uso intensivo del coche, consumo rápido) están normalizados. [web:55]
+
+3.3. Barreras digitales y de acceso a la información
+- Persones mayores o con baja alfabetización digital tienen dificultades para seguir campañas en línea.
+- Brecha idiomática y cultural en algunos colectivos (migrantes, minorías).
+- Falta de materiales accesibles (lectura fácil, adaptaciones a diversidad funcional).
+
+==========================================================
+4. PROBLEMAS RELACIONALES CON LA ORGANIZACIÓN
+==========================================================
+4.1. Desconocimiento de la ONG y de su propuesta
+- Muchas personas no saben qué hace exactamente la organización ni en qué se diferencia de otras.
+- Dificultad para entender cómo pueden participar más allá de donar dinero puntualmente.
+- Falta de relatos claros de impacto: qué se ha logrado, dónde y gracias a quién.
+
+4.2. Distancia percibida
+- Percepción de la ONG como “experta lejana” o “muy ideologizada”, poco conectada con problemas cotidianos.
+- Lenguaje que se percibe como moralizante, técnico o elitista.
+- Falta de canales bidireccionales donde la audiencia pueda preguntar, opinar y ser escuchada de verdad. [web:55]
+
+4.3. Experiencias negativas o decepcionantes
+- Expectativas de participación que no se cumplen (falta de seguimiento, tareas poco claras, promesas de cambio institucional que no se materializan).
+- Sensación de instrumentalización: “solo me buscan para firmar, donar o compartir en redes”.
+- Escasa retroalimentación sobre el resultado de las acciones en las que participan. [web:54]
+
+==========================================================
+5. PROBLEMAS CULTURALES Y POLÍTICOS
+==========================================================
+5.1. Polarización y politización
+- Identificación del discurso climático con determinadas ideologías o partidos, lo que genera rechazo automático en parte de la audiencia.
+- Dificultad para sostener conversaciones tranquilas sobre clima en entornos polarizados (familia, trabajo, redes sociales). [web:54]
+
+5.2. Conflictos de identidad y estilo de vida
+- Percepción de que el mensaje climático ataca formas de vida arraigadas (uso del coche, carne, ciertas tradiciones).
+- Temor a perder confort, estatus o identidad de grupo si se adoptan cambios profundos.
+- Resistencia a ser asociado con estereotipos de “activista radical” o “ecologista urbano desconectado del campo”. [web:55]
+
+5.3. Invisibilización de ciertos grupos
+- Comunidades rurales, trabajadoras o mayores que se sienten poco representadas en el relato climático dominante.
+- Sensación de que se habla “sobre” ellas pero no “con” ellas.
+- Falta de reconocimiento de conocimientos locales y saberes prácticos. [web:55]
+
+==========================================================
+6. SÍNTESIS POR TIPO DE PÚBLICO
+==========================================================
+6.1. Jóvenes
+- Problemas principales: ecoansiedad, percepción de no ser escuchados, saturación informativa.
+- Riesgo: pasar de alta implicación a frustración y retirada.
+- Necesidad: espacios reales de participación y cuidado emocional colectivo.
+
+6.2. Adultos en edad laboral
+- Problemas principales: falta de tiempo, conflictos con prioridades económicas y familiares, baja autoeficacia.
+- Riesgo: discurso de “sí, pero no puedo permitírmelo ahora”.
+- Necesidad: soluciones prácticas, realistas, integradas en su día a día.
+
+6.3. Personas mayores
+- Problemas principales: brecha digital, sensación de ser culpadas, dificultad para cambiar hábitos antiguos.
+- Riesgo: rechazo defensivo del mensaje climático.
+- Necesidad: reconocimiento de su aporte, enfoque en legado y propuestas presenciales accesibles.
+
+6.4. Empresas e instituciones
+- Problemas principales: miedo al escrutinio y al greenwashing, dificultad para medir impacto real, tensiones con objetivos económicos.
+- Riesgo: inacción o acciones simbólicas sin alcance.
+- Necesidad: acompañamiento técnico, métricas claras, relatos de impacto creíbles.
+
+==========================================================
+7. USO DEL DOCUMENTO EN LA ESTRATEGIA
+==========================================================
+- Cada problema identificado debe tener al menos una respuesta desde la organización: mensaje, recurso o cambio en la forma de relacionarse.
+- Este documento se revisará periódicamente en función de:
+  - Estudios de audiencia.
+  - Feedback de campañas.
+  - Conversaciones directas con personas usuarias, voluntariado y aliados.
+- Las soluciones diseñadas deberán testarse con los propios públicos afectados antes de escalarse.
+
+==========================================================
+FIN DEL DOCUMENTO
+==========================================================

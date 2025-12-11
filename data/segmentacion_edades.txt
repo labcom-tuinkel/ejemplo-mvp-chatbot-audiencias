@@ -1,0 +1,196 @@
+DOCUMENTO: SEGMENTACIÓN POR EDADES – CAMPAÑAS CLIMÁTICAS
+ORGANIZACIÓN: Cambia el Clima (ONG internacional de acción climática)
+FECHA: Diciembre 2025
+VERSIÓN: 1.0
+CONFIDENCIAL – Uso interno
+
+==========================================================
+0. CRITERIOS DE SEGMENTACIÓN POR EDAD
+==========================================================
+Se definen 4 grandes grupos de edad, integrando:
+- Nivel de preocupación y creencias sobre el cambio climático.
+- Tipo de conductas proambientales más frecuentes.
+- Emociones asociadas (ecoansiedad, esperanza, apatía).
+- Palancas de activación específicas. [web:26][web:30]
+
+GRUPOS:
+1) Adolescencia (12–17)
+2) Juventud adulta (18–34)
+3) Adultez media (35–54)
+4) Adultez madura y sénior (55+)
+
+==========================================================
+1. ADOLESCENCIA (12–17 AÑOS)
+==========================================================
+Rol en la estrategia: Generación en formación de actitudes, muy influenciable por familia, escuela y redes. [web:37]
+
+----------------------------------------------------------
+1.1. Rasgos generales
+----------------------------------------------------------
+- Etapa de exploración identitaria y búsqueda de pertenencia a grupos. [web:37]
+- Alta exposición a contenidos digitales, pero capacidad crítica aún en desarrollo.
+- Dependencia económica y logística de las familias.
+
+----------------------------------------------------------
+1.2. Actitudes climáticas
+----------------------------------------------------------
+- Alta sensibilidad emocional ante noticias climáticas, con riesgo de ecoansiedad. [web:30]
+- Alta receptividad a mensajes que conectan clima con justicia social, animales y futuro personal. [web:26]
+- Tendencia a confiar en figuras de referencia cercanas (docentes, influencers, amistades).
+
+----------------------------------------------------------
+1.3. Conductas típicas
+----------------------------------------------------------
+- Participación en actividades escolares (proyectos, concursos, campañas internas).
+- Acciones simbólicas y visibles (carteles, redes sociales, challenges). [web:37]
+- Hábitos verdes condicionados por el contexto familiar (alimentación, transporte, consumo).
+
+----------------------------------------------------------
+1.4. Barreras
+----------------------------------------------------------
+- Baja autonomía para decisiones de consumo o de movilidad.
+- Sensación de que “los adultos no escuchan” o “no toman en serio” sus preocupaciones. [web:26]
+- Sobreexposición a información alarmista sin herramientas claras de acción.
+
+----------------------------------------------------------
+1.5. Palancas de activación
+----------------------------------------------------------
+- Programas educativos experienciales (talleres, laboratorios de acción, gamificación). [web:37]
+- Visibilización del impacto de sus proyectos (premios, reconocimiento público, difusión en centros). 
+- Narrativas de empoderamiento juvenil y participación en espacios de decisión (consejos jóvenes, foros locales). [web:26]
+
+==========================================================
+2. JUVENTUD ADULTA (18–34 AÑOS)
+==========================================================
+Rol en la estrategia: Motor de movilización social y digital, alta preocupación climática y fuerte implicación emocional. [web:26][web:29]
+
+----------------------------------------------------------
+2.1. Rasgos generales
+----------------------------------------------------------
+- Etapa de transición: estudios superiores, inicio profesional, emancipación parcial. 
+- Alta presencia en redes sociales y cultura digital; consumo intenso de información online. [web:29]
+- Valores de justicia social, diversidad e igualdad muy presentes.
+
+----------------------------------------------------------
+2.2. Actitudes climáticas
+----------------------------------------------------------
+- Mayor probabilidad de alta preocupación climática frente a generaciones mayores. [web:29][web:26]
+- Percepción de urgencia y de injusticia intergeneracional (“nos dejan un problema enorme”). 
+- Mayor predisposición al activismo y a cuestionar estructuras políticas y corporativas. [web:26]
+
+----------------------------------------------------------
+2.3. Conductas típicas
+----------------------------------------------------------
+- Participación en manifestaciones, campañas online y boicots de consumo. [web:25]
+- Mayor frecuencia de opciones de transporte más verdes y consumo de moda sostenible respecto a grupos de más edad. [web:35]
+- Implicación en proyectos comunitarios, voluntariado y colectivos climáticos.
+
+----------------------------------------------------------
+2.4. Barreras
+----------------------------------------------------------
+- Precariedad laboral y económica que limita la capacidad de donación constante.
+- Ecoansiedad, sensación de bloqueo y frustración ante la lentitud del cambio institucional. [web:39]
+- Saturación informativa y fatiga ante contenidos catastrofistas.
+
+----------------------------------------------------------
+2.5. Palancas de activación
+----------------------------------------------------------
+- Oportunidades de liderazgo, co-creación y participación en decisiones organizativas. [web:26]
+- Campañas digitales con fuerte componente narrativo y de comunidad (retos, comunidades online, storytelling). 
+- Mensajes que conectan acción climática con identidad y propósito vital. [web:25]
+
+==========================================================
+3. ADULTEZ MEDIA (35–54 AÑOS)
+==========================================================
+Rol en la estrategia: Cohorte clave para cambios de hábitos masivos y decisiones estructurales (consumo, vivienda, crianza, voto). [web:31]
+
+----------------------------------------------------------
+3.1. Rasgos generales
+----------------------------------------------------------
+- Alta carga de responsabilidades: trabajo, familia, hipoteca, cuidados. 
+- Poder de decisión en hogares y organizaciones (consumo, educación de hijos/as, gestión de recursos). [web:31]
+- Menos tiempo disponible, mayor necesidad de soluciones prácticas.
+
+----------------------------------------------------------
+3.2. Actitudes climáticas
+----------------------------------------------------------
+- Nivel de preocupación relevante, pero con menor intensidad emocional que generaciones más jóvenes en muchos contextos. [web:29]
+- Prioriza problemas inmediatos (economía, conciliación, salud) y puede ver el clima como “una preocupación más”. [web:31]
+- Cierta disonancia: sabe que el problema es serio, pero siente limitada su capacidad de acción. [web:30]
+
+----------------------------------------------------------
+3.3. Conductas típicas
+----------------------------------------------------------
+- Fuerte presencia en comportamientos de conservación y reciclaje, especialmente ligados al hogar. [web:35]
+- Elecciones de consumo condicionado por precio, calidad y conveniencia; la sostenibilidad entra si no complica en exceso. [web:4]
+- Participación limitada en activismo, pero apertura a acciones puntuales (firmas, donaciones pequeñas, actividades familiares). [web:2]
+
+----------------------------------------------------------
+3.4. Barreras
+----------------------------------------------------------
+- Falta de tiempo, sobrecarga mental, sensación de “no llego a todo”. 
+- Percepción de que los cambios individuales son insuficientes frente a los grandes emisores. [web:31]
+- Dudas sobre qué acciones tienen realmente mayor impacto.
+
+----------------------------------------------------------
+3.5. Palancas de activación
+----------------------------------------------------------
+- Mensajes centrados en beneficios familiares (salud, ahorro, bienestar, ejemplo para hijos/as). [web:35]
+- Herramientas que simplifican decisiones: guías rápidas, productos “por defecto” sostenibles, calculadoras sencillas de impacto. [web:4]
+- Ofertas de participación integradas en su vida cotidiana (acciones en el colegio, empresa, barrio).
+
+==========================================================
+4. ADULTEZ MADURA Y SÉNIOR (55+ AÑOS)
+==========================================================
+Rol en la estrategia: Cohorte con influencia social y política, experiencia acumulada y, a menudo, tiempo disponible; claves en comportamientos domésticos de alto impacto. [web:32][web:27]
+
+----------------------------------------------------------
+4.1. Rasgos generales
+----------------------------------------------------------
+- Situaciones heterogéneas: personas aún en activo, prejubilación y jubilación. 
+- Mayor experiencia vital, redes sociales consolidadas y, en algunos casos, más tiempo para voluntariado. [web:27]
+- Algunas limitaciones físicas pueden condicionar ciertas conductas (movilidad, esfuerzos).
+
+----------------------------------------------------------
+4.2. Actitudes climáticas
+----------------------------------------------------------
+- Evidencia mixta: en algunos contextos muestran niveles de preocupación similares, aunque a menudo algo menores, que los jóvenes, pero con menos dramatización emocional. [web:26][web:36]
+- Fuerte preocupación por el legado para hijos/as y nietos/as (generatividad social). [web:27]
+- Mayor confianza en canales institucionales y tradicionales de información. [web:31]
+
+----------------------------------------------------------
+4.3. Conductas típicas
+----------------------------------------------------------
+- Mayor frecuencia en comportamientos de ahorro de recursos en el hogar (energía, agua, reciclaje, reducción de residuos). [web:30][web:32]
+- Menor uso de transporte activo o nuevas formas de consumo “verde” en comparación con jóvenes, dependiendo del contexto. [web:35]
+- Participación en asociaciones vecinales, grupos locales, parroquias, etc., que pueden ser vías de movilización.
+
+----------------------------------------------------------
+4.4. Barreras
+----------------------------------------------------------
+- Percepción de que “ya es tarde para cambiar” algunos hábitos arraigados. [web:32]
+- Brecha digital que dificulta acceso a campañas y herramientas online.
+- Rechazo a discursos percibidos como culpabilizadores hacia generaciones anteriores.
+
+----------------------------------------------------------
+4.5. Palancas de activación
+----------------------------------------------------------
+- Narrativas de legado (“lo que dejamos a las siguientes generaciones”) y transmisión de experiencia. [web:27]
+- Programas presenciales, locales y comunitarios, con apoyo de organizaciones de confianza (asociaciones, centros de mayores, entidades municipales). [web:36]
+- Reconocimiento a su contribución pasada y presente, evitando un tono acusatorio.
+
+==========================================================
+5. TABLA RESUMEN – SEGMENTACIÓN POR EDAD
+==========================================================
+Título: Claves de segmentación climática por edad
+
+| Grupo de edad        | Preocupación climática típica        | Conductas más frecuentes                         | Palancas clave principales                               |
+|----------------------|---------------------------------------|--------------------------------------------------|----------------------------------------------------------|
+| 12–17 Adolescencia   | Alta sensibilidad emocional [web:26]  | Proyectos escolares, retos y acciones simbólicas [web:37] | Educación experiencial, empoderamiento, reconocimiento   |
+| 18–34 Juventud adulta| Alta preocupación y activismo [web:29]| Activismo, redes sociales, consumo diferenciado [web:25] | Liderazgo, comunidad, propósito e incidencia política    |
+| 35–54 Adultez media  | Preocupación relevante pero tensionada con otras prioridades [web:29] | Conservación en el hogar, consumo condicionado por precio [web:35] | Beneficios familiares, soluciones prácticas, simplificación |
+| 55+ Madura y sénior  | Preocupación por legado y estabilidad [web:27] | Ahorro de recursos, reciclaje, acción comunitaria local [web:32] | Legado, programas locales presenciales, organizaciones de confianza [web:36] |
+
+==========================================================
+FIN DEL DOCUMENTO
+==========================================================

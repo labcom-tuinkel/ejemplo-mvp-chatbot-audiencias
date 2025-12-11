@@ -1,0 +1,256 @@
+DOCUMENTO: PERFILES COMPORTAMENTALES (BUYER PERSONAS)
+ORGANIZACIÓN: Cambia el Clima (ONG internacional de acción climática)
+FECHA: Diciembre 2025
+VERSIÓN: 1.0
+CONFIDENCIAL – Uso interno
+
+==========================================================
+0. NOTA METODOLÓGICA
+==========================================================
+Estos 4 perfiles comportamentales integran:
+- Actitudes hacia el cambio climático (creencias, nivel de preocupación).
+- Conductas actuales (hábitos, activismo, consumo).
+- Motivaciones profundas (valores, identidad, sentido de eficacia).
+- Barreras y “puntos ciegos” psicológicos y contextuales.
+- Palancas de activación (mensajes, formatos y experiencias que movilizan). [web:5][web:8]
+
+No representan personas reales, sino **arquetipos** con utilidad para:
+- Definir mensajes, campañas y productos/programas específicos.
+- Priorizar segmentos según potencial de impacto y facilidad de activación.
+- Diseñar journeys de conversión comportamental (de indiferente a activo). [web:5][web:17]
+
+==========================================================
+1. PERFIL A – “ACTIVISTA ESTRATÉGICA”
+==========================================================
+Rol central: Núcleo duro de activismo climático, alta competencia informativa y capacidad de movilización.
+
+----------------------------------------------------------
+1.1. Identidad básica
+----------------------------------------------------------
+Edad típica: 20–35 años  
+Entorno: Urbano, con acceso a redes de colectivos y espacios culturales  
+Situación laboral: Estudiante avanzada o profesional joven en sectores sociales, ambientales o culturales  
+Nivel educativo: Medio-alto / alto  
+
+----------------------------------------------------------
+1.2. Mindset y creencias
+----------------------------------------------------------
+- Considera el cambio climático el principal reto de su generación, vinculado a justicia social y derechos humanos. [web:7][web:10]
+- Alta confianza en la evidencia científica, sigue fuentes especializadas y organizaciones de referencia.
+- Cree que las decisiones políticas y corporativas son clave, pero que la presión ciudadana puede acelerar cambios estructurales. [web:5]
+
+----------------------------------------------------------
+1.3. Conductas actuales
+----------------------------------------------------------
+- Participa en marchas, campañas, firmas de peticiones, acciones de protesta y desinversión. [web:18]
+- Integra hábitos proambientales en su día a día (movilidad baja en emisiones, alimentación con menor impacto, consumo reducido). [web:10]
+- Es “opinion leader” en su entorno: comparte información, debate e influye en decisiones de consumo y voto. [web:6]
+
+----------------------------------------------------------
+1.4. Motivaciones profundas
+----------------------------------------------------------
+- Coherencia entre valores y acciones; evita la disonancia (“no quiero ser parte del problema”). [web:6]
+- Identidad colectiva: pertenecer a una red global que lucha por un objetivo común.
+- Necesidad de impacto visible: ver resultados concretos (cambios de políticas, victorias judiciales, compromisos empresariales). [web:18]
+
+----------------------------------------------------------
+1.5. Barreras y frenos
+----------------------------------------------------------
+- Fatiga emocional y clima-ansiedad: sensación recurrente de urgencia y catástrofe. [web:10]
+- Frustración ante “greenwashing” y promesas incumplidas.
+- Limitaciones de tiempo/energía por precariedad laboral o cargas personales.
+
+----------------------------------------------------------
+1.6. Relación con la ONG
+----------------------------------------------------------
+- Dispuesta a: voluntariado estratégico, coordinación de campañas, formación a otros.
+- Exigente con la transparencia, la coherencia y el rigor científico.
+- Valora espacios donde co-diseñar campañas, no solo “ejecutarlas”.
+
+----------------------------------------------------------
+1.7. Palancas de activación
+----------------------------------------------------------
+- Narrativas de eficacia colectiva (“cuando muchas personas actúan, las reglas cambian”). [web:6]
+- Oportunidades de liderazgo (referente local, portavoz, formadora).
+- Herramientas concretas de incidencia política (kits para contactar cargos públicos, guías de lobby ciudadano). [web:5]
+
+==========================================================
+2. PERFIL B – “PRÁCTICO ECO-CONSUMIDOR”
+==========================================================
+Rol central: Mayoría pragmática con conciencia ambiental moderada, alto potencial para cambios de hábitos masivos.
+
+----------------------------------------------------------
+2.1. Identidad básica
+----------------------------------------------------------
+Edad típica: 30–50 años  
+Entorno: Urbano o periurbano, vida familiar y laboral intensa  
+Situación laboral: Empleo estable; gestiona tiempo y responsabilidades familiares  
+Nivel educativo: Medio / medio-alto  
+
+----------------------------------------------------------
+2.2. Mindset y creencias
+----------------------------------------------------------
+- Reconoce la gravedad del cambio climático pero lo percibe como “difuso” y de largo plazo. [web:11]
+- Considera que las instituciones deberían liderar la solución, pero admite que “algo se puede hacer desde casa”.
+- Siente cierta culpa, pero también saturación de malas noticias.
+
+----------------------------------------------------------
+2.3. Conductas actuales
+----------------------------------------------------------
+- Practica algunos hábitos: reciclaje, compra ocasional de productos sostenibles, ahorro energético por coste. [web:4][web:13]
+- No se involucra en activismo organizado, se limita a cambios personales concretos.
+- Responde mejor a “opciones por defecto sostenibles” que a mensajes moralizantes. [web:8]
+
+----------------------------------------------------------
+2.4. Motivaciones profundas
+----------------------------------------------------------
+- Cuidado de la familia y de las generaciones futuras (“quiero dejarles un mundo habitable”). [web:7]
+- Ahorro económico y comodidad (si una opción verde también ahorra dinero y tiempo, la elige).
+- Deseo de sentirse “buena persona” sin cambiar radicalmente su estilo de vida. [web:4]
+
+----------------------------------------------------------
+2.5. Barreras y frenos
+----------------------------------------------------------
+- Percepción de que ser sostenible es caro, complejo e incómodo. [web:4]
+- Sensación de baja autoeficacia: “mi contribución no cambia nada importante”. [web:6]
+- Sobrecarga cognitiva: demasiada información, poca guía clara.
+
+----------------------------------------------------------
+2.6. Relación con la ONG
+----------------------------------------------------------
+- Interesada en contenidos prácticos, simples y visuales (checklists, guías de 10 pasos, retos). [web:12]
+- Propensa a donar pequeñas cantidades si percibe impacto concreto y cercano.
+- Puede convertirse en promotora moderada en su entorno familiar/escolar.
+
+----------------------------------------------------------
+2.7. Palancas de activación
+----------------------------------------------------------
+- Mensajes centrados en beneficios tangibles: ahorro económico, salud, bienestar familiar. [web:4]
+- Micro-hábitos escalables (ej.: “1 cambio a la semana”) y feedback de impacto (“has ahorrado X kg de CO₂”). [web:8]
+- Historias de personas “como ella” que han logrado cambios manejables. [web:12]
+
+==========================================================
+3. PERFIL C – “ALIADO INSTITUCIONAL / CORPORATIVO”
+==========================================================
+Rol central: Representa organizaciones que pueden multiplicar el impacto (empresas, administraciones, centros educativos).
+
+----------------------------------------------------------
+3.1. Identidad básica
+----------------------------------------------------------
+Edad típica: 35–60 años  
+Entorno: Organización pública o privada con exposición reputacional  
+Cargo: Dirección, mando intermedio, responsable de sostenibilidad, RSC o innovación  
+Nivel educativo: Medio-alto / alto  
+
+----------------------------------------------------------
+3.2. Mindset y creencias
+----------------------------------------------------------
+- Ve el cambio climático como un riesgo estratégico (regulatorio, reputacional, financiero). [web:11]
+- Tiene una mezcla de motivación ética y necesidad de alinearse con estándares (ESG, ODS, reporting).
+- Cree que involucrar a personas (empleados, ciudadanía) es clave, pero no sabe bien cómo.
+
+----------------------------------------------------------
+3.3. Conductas actuales
+----------------------------------------------------------
+- Ha implementado algunas medidas: eficiencia energética, campañas internas, informes de sostenibilidad. [web:8]
+- Explora alianzas con ONG para proyectos concretos (reforestación, educación, compensación).
+- Comunica ciertas acciones, pero teme ser percibida como “greenwashing”.
+
+----------------------------------------------------------
+3.4. Motivaciones profundas
+----------------------------------------------------------
+- Reputación positiva, licencia social para operar, atracción y retención de talento. [web:15]
+- Cumplimiento normativo y acceso a financiación ligada a criterios climáticos.
+- Sentido de legado institucional (dejar una organización más responsable).
+
+----------------------------------------------------------
+3.5. Barreras y frenos
+----------------------------------------------------------
+- Miedo al escrutinio público: “si hacemos algo, nos van a señalar por lo que aún no hacemos”.
+- Dificultad para medir impacto y seleccionar proyectos robustos.
+- Tensión entre objetivos a corto plazo (beneficio, votos) y beneficios climáticos a largo plazo. [web:11]
+
+----------------------------------------------------------
+3.6. Relación con la ONG
+----------------------------------------------------------
+- Ve a la ONG como socio experto que aporta legitimidad, metodología y narrativa de impacto.
+- Dispuesta a financiar proyectos, ofrecer voluntariado corporativo y abrir canales de comunicación. [web:15]
+- Necesita materiales claros para comunicar internamente y hacia fuera.
+
+----------------------------------------------------------
+3.7. Palancas de activación
+----------------------------------------------------------
+- Propuestas “llave en mano” con costes, riesgos y métricas de impacto claros. [web:8]
+- Reconocimiento público creíble (casos de éxito, informes, presencia en medios y eventos).
+- Programas que conectan acción climática con bienestar laboral, innovación y competitividad. [web:11]
+
+==========================================================
+4. PERFIL D – “SIMPATIZANTE DISTANTE”
+==========================================================
+Rol central: Amplio grupo que no niega el problema, pero lo vive como algo lejano, abstracto o fuera de su control.
+
+----------------------------------------------------------
+4.1. Identidad básica
+----------------------------------------------------------
+Edad típica: muy variada (18–65+)  
+Entorno: Urbano, periurbano o rural; diversidad de situaciones socioeconómicas  
+Situación laboral: Heterogénea, con presencia de precariedad y preocupación económica  
+Nivel educativo: Muy diverso  
+
+----------------------------------------------------------
+4.2. Mindset y creencias
+----------------------------------------------------------
+- Acepta que el clima está cambiando, pero prioriza problemas inmediatos (empleo, vivienda, seguridad). [web:11]
+- Percibe el discurso climático como técnico, moralizante o politizado.
+- Asocia la acción climática con esfuerzo, renuncia o pérdida de comodidad.
+
+----------------------------------------------------------
+4.3. Conductas actuales
+----------------------------------------------------------
+- Poca o nula participación en iniciativas ambientales.
+- Algunos hábitos sostenibles pueden existir, pero motivados por otros motivos (ahorro de dinero, costumbre local). [web:4]
+- Consumo mediático generalista, baja exposición a contenidos ambientales profundos.
+
+----------------------------------------------------------
+4.4. Motivaciones profundas
+----------------------------------------------------------
+- Seguridad económica y estabilidad: que el “cambio verde” no empeore su día a día. [web:11]
+- Orgullo local/comunitario cuando su barrio o pueblo es reconocido por algo positivo.
+- Deseo de pertenencia: se moviliza más por vínculos personales que por argumentos abstractos.
+
+----------------------------------------------------------
+4.5. Barreras y frenos
+----------------------------------------------------------
+- Desconfianza hacia instituciones y expertos, sensación de que “no van conmigo”.
+- Baja autoeficacia: cree que su capacidad de influencia es mínima. [web:6]
+- Rechazo a mensajes culpabilizadores o tecnocráticos.
+
+----------------------------------------------------------
+4.6. Relación con la ONG
+----------------------------------------------------------
+- Relación débil o inexistente; conocimiento superficial o nulo de la organización.
+- Puede participar puntualmente si la acción es muy concreta, cercana y socialmente atractiva (evento local, fiesta, iniciativa visible en su barrio).
+- Alta sensibilidad a la forma y al tono del mensaje.
+
+----------------------------------------------------------
+4.7. Palancas de activación
+----------------------------------------------------------
+- Propuestas integradas con beneficios cotidianos: empleo verde local, ahorro, mejora de espacios públicos. [web:11]
+- Voces de confianza: líderes comunitarios, figuras locales, amistades, no solo “expertos climáticos”. [web:7]
+- Narrativas de orgullo local (“nuestro barrio/pueblo se adelanta y cuida su futuro”).
+
+==========================================================
+5. TABLA RESUMEN DE LOS 4 PERFILES
+==========================================================
+Título: Resumen de clusters comportamentales
+
+| Perfil                    | Actitud climática          | Nivel de acción actual | Potencial de impacto | Palancas clave                    |
+|---------------------------|----------------------------|------------------------|----------------------|-----------------------------------|
+| Activista estratégica     | Alta preocupación / alta autoeficacia [web:5] | Activismo colectivo y hábitos verdes [web:18] | Muy alto (líder y multiplicador) | Liderazgo, co-creación, incidencia política [web:5] |
+| Práctico eco-consumidor   | Preocupación moderada [web:11] | Hábitos parciales y consumo verde ocasional [web:4] | Alto (cambio masivo de hábitos)  | Beneficios tangibles, micro-hábitos, ejemplos cercanos [web:4] |
+| Aliado institucional      | Preocupación estratégica [web:11] | Proyectos y políticas internas selectivas [web:8] | Muy alto (escala organizacional) | Métricas de impacto, reputación, cumplimiento normativo [web:8] |
+| Simpatizante distante     | Aceptación pasiva / baja prioridad [web:11] | Acción casi nula o indirecta [web:4] | Medio (si se vincula a beneficios cotidianos) | Orgullo local, beneficios socioeconómicos, mensajeros de confianza [web:7] |
+
+==========================================================
+FIN DEL DOCUMENTO
+==========================================================

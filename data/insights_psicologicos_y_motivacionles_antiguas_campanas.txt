@@ -1,0 +1,208 @@
+DOCUMENTO: INSIGHTS PSICOLÓGICOS Y MOTIVACIONALES
+APLICABLES A MÚLTIPLES CAMPAÑAS CLIMÁTICAS
+ORGANIZACIÓN: Cambia el Clima
+FECHA: Diciembre 2025
+VERSIÓN: 1.0
+USO: Marco conceptual para diseño de campañas
+
+==========================================================
+0. PROPÓSITO DEL DOCUMENTO
+==========================================================
+Este documento sintetiza hallazgos psicológicos y motivacionales
+que se repiten en campañas ambientales, climáticas y de cambio
+de hábitos, y que pueden servir como “principios de diseño”
+para futuras intervenciones de comunicación, movilización y
+educación. [web:60][web:62]
+
+==========================================================
+1. PERCEPCIÓN DEL RIESGO Y DISTANCIA PSICOLÓGICA
+==========================================================
+Insight 1.1 – El clima se siente “lejos” hasta que se concreta
+- Muchas personas reconocen intelectualmente el problema,
+  pero lo perciben lejano en tiempo, espacio y relevancia
+  personal.
+- La información genérica (temperaturas globales, ppm de CO₂)
+  activa menos respuesta que ejemplos concretos ligados a salud,
+  empleo, vivienda o territorio. [web:60][web:62]
+Implicación para campañas:
+- Traducir el riesgo global en historias locales, casos cercanos
+  y efectos tangibles en la vida cotidiana.
+- Usar ejemplos situados (barrio, región, colectivo específico),
+  evitando únicamente macro-narrativas abstractas.
+
+Insight 1.2 – Sin riesgo percibido no hay cambio sostenido
+- La ausencia de percepción de riesgo o relevancia reduce la
+  motivación para modificar conductas.
+- Sin embargo, un exceso de mensajes de riesgo puede generar
+  ecofatiga y evitación defensiva. [web:60]
+Implicación para campañas:
+- Aumentar la percepción de riesgo de forma graduada y
+  contextualizada, siempre acompañada de vías de acción claras.
+- Evitar campañas basadas solo en miedo; combinar riesgo +
+  eficacia + sentido.
+
+==========================================================
+2. AUTOEFICACIA Y “PUEDO HACER ALGO”
+==========================================================
+Insight 2.1 – Sentirse capaz es más importante que saber mucho
+- La acumulación de información no se traduce automáticamente
+  en acción.
+- Las personas actúan más cuando perciben que sus acciones son
+  concretas, factibles y con impacto significativo. [web:66][web:62]
+Implicación para campañas:
+- Proponer pasos pequeños, claros y alcanzables, en lugar de
+  listas extensas de “todo lo que deberías cambiar”.
+- Dar feedback del impacto (indicadores sencillos, comparaciones
+  con el antes/después o con la media de su entorno).
+
+Insight 2.2 – La autoeficacia es contagiosa cuando se ve
+- Ver a personas “como yo” logrando cambios facilita la
+  internalización de “yo también puedo”.
+- Los modelos cercanos (amigos, vecinos, colegas) suelen ser
+  más creíbles que figuras lejanas. [web:62][web:67]
+Implicación para campañas:
+- Incluir testimonios y casos de personas ordinarias que han
+  cambiado hábitos, no solo referentes expertos.
+- Visibilizar procesos, no solo resultados finales (antes, durante
+  y después del cambio).
+
+==========================================================
+3. EMOCIONES: ENTRE ECOANSIEDAD Y ESPERANZA
+==========================================================
+Insight 3.1 – El miedo sin salida paraliza
+- Mensajes exclusivamente catastrofistas pueden generar miedo,
+  culpa y sensación de indefensión (“no sirve de nada lo que haga”).
+- Esta combinación lleva a la evitación del tema o al cinismo. [web:60]
+Implicación para campañas:
+- Equilibrar la comunicación de riesgos con ejemplos claros de
+  soluciones y de avances logrados.
+- Integrar emociones como orgullo, alivio, pertenencia y sentido,
+  no solo miedo y culpa.
+
+Insight 3.2 – La esperanza debe ser creíble, no ingenua
+- Las personas responden bien a narrativas de esperanza
+  fundamentadas en acciones y resultados concretos.
+- La esperanza vacía (“todo saldrá bien”) puede percibirse como
+  negación del problema. [web:62]
+Implicación para campañas:
+- Mostrar victorias parciales, cambios alcanzados, políticas
+  aprobadas, comunidades que ya han transformado prácticas.
+- Subrayar que el futuro está abierto y depende de decisiones
+  presentes, no garantizado.
+
+==========================================================
+4. IDENTIDAD, VALORES Y MARCOS MENTALES
+==========================================================
+Insight 4.1 – El mensaje funciona mejor si conecta con valores previos
+- Las personas interpretan los mensajes climáticos desde sus
+  marcos previos (familia, trabajo, espiritualidad, justicia,
+  seguridad, tradición…).
+- Cuando el mensaje se percibe como ataque a la identidad o
+  al estilo de vida, se activa resistencia. [web:62][web:61]
+Implicación para campañas:
+- Enmarcar la acción climática en valores ya importantes para
+  cada segmento (por ejemplo, cuidado familiar, orgullo local,
+  responsabilidad profesional).
+- Evitar construir narrativas que etiqueten a colectivos como
+  “culpables” o “atrasados”.
+
+Insight 4.2 – Dos grandes motivaciones: antropocéntrica y ecocéntrica
+- Algunas personas se movilizan principalmente por el impacto
+  sobre seres humanos (salud, bienestar, futuro de hijos/as).
+- Otras otorgan valor intrínseco a la naturaleza y a otras
+  especies, más allá de su utilidad. [web:62]
+Implicación para campañas:
+- Diseñar mensajes que puedan activar ambos registros, según
+  público: “cuidar a quienes quieres” y “cuidar el planeta por
+  lo que es”.
+- Evitar suponer que todo el mundo responde al mismo tipo de
+  argumento moral.
+
+==========================================================
+5. NORMAS SOCIALES Y PERTENENCIA
+==========================================================
+Insight 5.1 – “Lo que hace la mayoría” pesa más de lo que se admite
+- Las personas ajustan su conducta a lo que perciben como
+  normal en su entorno, incluso si no coincide con sus
+  creencias declaradas.
+- Mostrar que muchos ya actúan puede resultar más eficaz que
+  insistir en que “deberías actuar”. [web:58][web:67]
+Implicación para campañas:
+- Usar mensajes de norma descriptiva (“la mayoría de tu barrio
+  ya hace X”) con cuidado y veracidad.
+- Cuidar que los mensajes no refuercen normas negativas
+  (“casi nadie recicla…”), que consolidan la inacción.
+
+Insight 5.2 – El reconocimiento social es un refuerzo potente
+- Saber que otros verán, valorarán y reconocerán el esfuerzo
+  aumenta la probabilidad de mantener nuevos hábitos.
+- El reconocimiento puede ser simbólico (estatus, visibilidad)
+  más que material. [web:58]
+Implicación para campañas:
+- Incorporar mecanismos de reconocimiento público (distintivos,
+  historias destacadas, agradecimientos visibles).
+- Facilitar comunidades de práctica donde las personas se
+  sientan acompañadas y no “raras” por cambiar.
+
+==========================================================
+6. HÁBITOS, INERCIA Y “DRAGONES DE LA INACTIVIDAD”
+==========================================================
+Insight 6.1 – La inercia pesa más que la intención
+- Muchos comportamientos de impacto ambiental alto suceden
+  por costumbre, no por decisión consciente.
+- Cambiar hábitos exige rediseñar contextos, no solo apelar a
+  la voluntad. [web:58][web:62]
+Implicación para campañas:
+- Trabajar con “diseño de entorno”: facilitar opciones por
+  defecto más sostenibles, reducir fricción para la conducta
+  deseada.
+- Ayudar a crear recordatorios, rutinas y anclajes (ej.: ligar
+  un nuevo hábito a uno ya establecido).
+
+Insight 6.2 – “Dragones de la inactividad”
+- Existen pensamientos recurrentes que bloquean la acción:
+  “no sirve de nada”, “no soy yo, son las grandes empresas”,
+  “es muy caro”, “es muy tarde”… [web:58][web:66]
+Implicación para campañas:
+- Identificar y responder explícitamente a estos “dragones”
+  con datos sencillos, ejemplos y cambios factibles.
+- Incorporar mensajes que desmonten mitos de forma respetuosa,
+  sin ridiculizar a quien los sostiene.
+
+==========================================================
+7. INCENTIVOS, RECOMPENSAS Y SENTIDO
+==========================================================
+Insight 7.1 – Los incentivos económicos ayudan, pero no bastan
+- Las recompensas monetarias pueden iniciar conductas, pero
+  si se retiran, es frecuente que el comportamiento vuelva
+  a su línea base si no hay motivación intrínseca. [web:67][web:66]
+Implicación para campañas:
+- Usar incentivos materiales como entrada, no como única
+  palanca.
+- Combinar recompensas con construcción de identidad (“soy
+  alguien que…”), sentido y pertenencia.
+
+Insight 7.2 – El “para qué” profundo sostiene el esfuerzo
+- Cuando la conducta se vincula a un propósito personal
+  (cuidar, contribuir, dejar legado), el cambio es más
+  resistente al cansancio. [web:60][web:62]
+Implicación para campañas:
+- Ayudar a las personas a articular su propio motivo para
+  actuar (ej.: ejercicios narrativos, testimonios, espacios
+  de reflexión).
+- Incorporar relatos que muestren la coherencia entre valores
+  y acciones, más allá de “hacer lo correcto”.
+
+==========================================================
+8. APRENDIZAJES TRANSVERSALES PARA DISEÑO DE CAMPAÑAS
+==========================================================
+- No basta con informar: hay que trabajar percepción de riesgo,
+  autoeficacia y sentido de pertenencia. [web:60]
+- Las campañas más robustas combinan: emoción + evidencia +
+  caminos de acción claros y adaptados al contexto. [web:62]
+- Los cambios se consolidan cuando el entorno facilita la
+  conducta y la comunidad la reconoce y la normaliza. [web:58][web:66]
+
+==========================================================
+FIN DEL DOCUMENTO
+==========================================================
