@@ -2,63 +2,100 @@ import streamlit as st
 from langchain_community.chat_message_histories import StreamlitChatMessageHistory
 from langchain_community.embeddings import OpenAIEmbeddings
 
-from ensemble import ensemble_retriever_from_docs
-from full_chain import create_full_chain, ask_question
 from local_loader import load_txt_files
+from filter import create_retriever   # 🔥 Nuevo retriever híbrido con documentos core
+from rag_chain import make_rag_chain  # 🔥 Nuevo RAG maestro (contexto estructurado + reglas duras)
+from basic_chain import get_model      # 🔥 Modelo base que respeta identidad y normas
+
+
+# --------------------------------------------------------------
+# CONFIGURACIÓN DE LA APP
+# --------------------------------------------------------------
 
 st.set_page_config(page_title="Chat RAG en Español – Públicos Objetivo")
 st.title("Chat RAG en Español – Públicos Objetivo")
 
 
-def show_ui(qa, prompt_to_user="¿En qué puedo ayudarte? Puedes pedirme que genere mensajes adaptados a tu público objetivo."):
+# --------------------------------------------------------------
+# INTERFAZ DE CHAT
+# --------------------------------------------------------------
 
+def show_ui(chain, prompt_to_user="¿En qué puedo ayudarte? Puedes pedirme que genere mensajes adaptados a tu público objetivo."):
+
+    # Inicializa historial si no existe
     if "messages" not in st.session_state.keys():
         st.session_state.messages = [{"role": "assistant", "content": prompt_to_user}]
 
-    # Display chat messages
+    # Mostrar historial
     for message in st.session_state.messages:
         with st.chat_message(message["role"]):
             st.write(message["content"])
 
-    # User-provided prompt
+    # Capturar mensaje del usuario
     if prompt := st.chat_input():
         st.session_state.messages.append({"role": "user", "content": prompt})
         with st.chat_message("user"):
             st.write(prompt)
 
-    # Generate a new response if last message is not from assistant
+    # Generar respuesta solo si el último mensaje no es del asistente
     if st.session_state.messages[-1]["role"] != "assistant":
         with st.chat_message("assistant"):
             with st.spinner("Generando respuesta..."):
-                response = ask_question(qa, prompt)
-                st.markdown(response.content)
-        message = {"role": "assistant", "content": response.content}
-        st.session_state.messages.append(message)
+                response = chain.invoke(prompt)
 
+                # extraer texto del objeto devuelto
+                text = response.content if hasattr(response, "content") else str(response)
+
+                st.markdown(text)
+                st.session_state.messages.append({"role": "assistant", "content": text})
+
+
+
+# --------------------------------------------------------------
+# RETRIEVER – Con vectorización y documentos CORE
+# --------------------------------------------------------------
 
 @st.cache_resource
 def get_retriever(openai_api_key=None):
-    docs = load_txt_files()
+    docs = load_txt_files()  # Carga los Document()
+    
+    # Creamos embeddings SOLO para vectorización dentro de create_vector_db
+    # Este embeddings no se usa directamente aquí.
     embeddings = OpenAIEmbeddings(
         openai_api_key=openai_api_key,
         model="text-embedding-3-small"
     )
-    return ensemble_retriever_from_docs(docs, embeddings=embeddings)
 
+    # Usamos tu retriever híbrido mejorado
+    retriever = create_retriever(docs)
+    return retriever
+
+
+# --------------------------------------------------------------
+# CONSTRUCCIÓN DE LA CADENA COMPLETA (RAG + memoria)
+# --------------------------------------------------------------
 
 def get_chain(openai_api_key=None):
+
     retriever = get_retriever(openai_api_key=openai_api_key)
-    chain = create_full_chain(
-        retriever,
-        openai_api_key=openai_api_key,
-        chat_memory=StreamlitChatMessageHistory(key="langchain_messages")
-    )
+
+    model = get_model(openai_api_key=openai_api_key)
+
+    # Chat memory para conservar el hilo conversacional
+    memory = StreamlitChatMessageHistory(key="langchain_messages")
+
+    # Tu cadena final: RAG maestro → modelo
+    chain = make_rag_chain(model, retriever)
+
     return chain
 
 
+# --------------------------------------------------------------
+# GESTIÓN DE SECRETS Y API KEYS
+# --------------------------------------------------------------
+
 def get_secret_or_input(secret_key, secret_name, info_link=None):
 
-    # Evitar error cuando no existe secrets.toml
     safe_secrets = getattr(st, "secrets", {})
 
     if secret_key in safe_secrets:
@@ -77,6 +114,10 @@ def get_secret_or_input(secret_key, secret_name, info_link=None):
 
     return secret_value
 
+
+# --------------------------------------------------------------
+# EJECUCIÓN PRINCIPAL
+# --------------------------------------------------------------
 
 def run():
     ready = True

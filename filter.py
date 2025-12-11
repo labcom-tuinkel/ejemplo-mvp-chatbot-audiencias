@@ -11,18 +11,39 @@ from vector_store import create_vector_db
 from splitter import split_documents
 
 
+# ============================================================
+# LISTA DE DOCUMENTOS "CORE" QUE SIEMPRE DEBEN APARECER
+# ============================================================
+
+CORE_KEYWORDS = {
+    "PERFILES": ["perfil a", "perfil b", "perfil c", "perfil d", "perfiles comportamentales"],
+    "NORMAS": ["principios rectores", "política y reglas de comunicación", "tono general"],
+    "PROBLEMAS": ["problemas cognitivos", "ecoansiedad", "baja autoeficacia", "polarización"],
+    "SEGMENTACION": ["adolescencia", "juventud adulta", "adultez media", "adultez madura", "senior"],
+    "INSIGHTS": ["autoeficacia", "inercia", "dragones", "normas sociales", "distancia psicológica"]
+}
+
+
+def is_core_doc(doc: Document):
+    """Determina si un documento pertenece a los esenciales."""
+    text = doc.page_content.lower()
+    return any(keyword in text for keywords in CORE_KEYWORDS.values() for keyword in keywords)
+
+
+# ============================================================
+# RETRIEVER MEJORADO
+# ============================================================
+
 def create_retriever(texts):
     """
-    Retriever híbrido moderno compatible con LangChain.
-    Combina:
-    - BM25
-    - Embeddings densos
-    - Embeddings esparsos
-    - Filtro de redundancia
-    - Reordenamiento contextual
+    Retriever híbrido mejorado:
+    - Recupera documentos por similitud híbrida
+    - Añade SIEMPRE documentos core
+    - Filtra redundancia
+    - Reordena para coherencia contextual
     """
 
-    # Embeddings densos y esparsos
+    # === Embeddings densos y esparsos ===
     dense_embeddings = HuggingFaceEmbeddings(model_name="all-MiniLM-L6-v2")
     sparse_embeddings = HuggingFaceBgeEmbeddings(
         model_name="BAAI/bge-large-en",
@@ -32,30 +53,36 @@ def create_retriever(texts):
     dense_vs = create_vector_db(texts, collection_name="dense", embeddings=dense_embeddings)
     sparse_vs = create_vector_db(texts, collection_name="sparse", embeddings=sparse_embeddings)
 
-    dense_retriever = dense_vs.as_retriever(search_kwargs={"k": 4})
-    sparse_retriever = sparse_vs.as_retriever(search_kwargs={"k": 4})
-    bm25_retriever = BM25Retriever.from_texts(
-        [t.page_content for t in texts]
-    )
+    dense_retriever = dense_vs.as_retriever(search_kwargs={"k": 3})
+    sparse_retriever = sparse_vs.as_retriever(search_kwargs={"k": 3})
+    bm25_retriever = BM25Retriever.from_texts([t.page_content for t in texts])
 
     redundant_filter = EmbeddingsRedundantFilter(embeddings=sparse_embeddings)
     reordering = LongContextReorder()
 
+    # === SELECCIÓN PREVIA: documentos core ===
+    core_docs = [d for d in texts if is_core_doc(d)]
+    core_docs = core_docs[:8]  # evita meter demasiado contexto
+
+    # ============================================================
+    # Modern Retriever con priorización
+    # ============================================================
+
     class ModernHybridRetriever(BaseRetriever):
-
         def _get_relevant_documents(self, query, *, run_manager=None):
-            """
-            Método OBLIGATORIO en LangChain moderno.
-            """
 
-            # Recuperación híbrida
+            # 1 — Recuperación híbrida clásica
             docs = (
-                dense_retriever.get_relevant_documents(query)
-                + sparse_retriever.get_relevant_documents(query)
-                + bm25_retriever.get_relevant_documents(query)
+                dense_retriever.invoke(query)
+                + sparse_retriever.invoke(query)
+                + bm25_retriever.invoke(query)
             )
 
-            # Eliminar duplicados manteniendo orden
+
+            # 2 — Añadir documentos core SIEMPRE
+            docs = core_docs + docs
+
+            # 3 — Eliminar duplicados preservando orden
             seen = set()
             unique_docs = []
             for d in docs:
@@ -63,10 +90,10 @@ def create_retriever(texts):
                     unique_docs.append(d)
                     seen.add(d.page_content)
 
-            # Filtro de documentos redundantes
+            # 4 — Filtrar redundancias
             unique_docs = redundant_filter.transform_documents(unique_docs)
 
-            # Reordenamiento para mejorar la coherencia contextual
+            # 5 — Reorganizar para coherencia
             unique_docs = reordering.transform_documents(unique_docs)
 
             return unique_docs
